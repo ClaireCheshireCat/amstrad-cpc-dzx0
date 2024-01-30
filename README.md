@@ -2,8 +2,8 @@
 A ZX0 file decompressor you can use in BASIC on your Amstrad CPC.
 The compressor could be found at https://github.com/einar-saukas/ZX0, or at my own fork https://github.com/ClaireCheshireCat/ZX0
 
-dzx0.bin is a small automatically relocatable executable file for use in Locomotive Basic.
-It's a derivative of the work of Einar Saukas, https://github.com/einar-saukas
+dzx0.bin is a small (134 bytes) automatically relocatable executable file for use in Locomotive Basic.
+It's a derivative work of Einar Saukas's & Urusergi ZX0 Z80 Standard decoder, https://github.com/einar-saukas
 The Shinobi artwork present in the archive is from Eric Cubizolle, https://www.facebook.com/eric.titancubizolle
 
 To use DZX0 on an Amstrad CPC, simply load it anywhere you want in the RAM, as long it's not a place which is used by the firmware
